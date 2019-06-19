@@ -1,5 +1,7 @@
 # zero-cost-web-app
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1bc7c109-38e1-42d4-9437-ab181a3cc8d1/deploy-status)](https://app.netlify.com/sites/zero-cost-web-app/deploys)
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
